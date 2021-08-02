@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif">
 
-## Hey, I’m Talha 👋 ##
+## Hey, I’m Talha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"> ##
 A passionate software engineer from India
 
 - 👀 I’m interested in Coding!
