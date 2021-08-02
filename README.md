@@ -45,6 +45,15 @@ I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏. I'm 
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
+<h2 align="left">GitHub Analytics ⚙️</h2>
+
+<p align="center">
+<a href="https://github.com/talha-shaikh-official">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha-shaikh-official&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=talha-shaikh-official&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+
 <h2 align="left">Connect with me 🤝</h2>
 <p align="center">
 <a href="https://twitter.com/itzvampyr" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="itzvampyr"/></a>&nbsp;
