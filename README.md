@@ -54,6 +54,8 @@ I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏. I'm 
 </a>
 </p>
 
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+
 <h2 align="left">Connect with me 🤝</h2>
 <p align="center">
 <a href="https://twitter.com/itzvampyr" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="itzvampyr"/></a>&nbsp;
