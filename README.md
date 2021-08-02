@@ -54,6 +54,4 @@ I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏. I'm 
 <a href="https://www.youtube.com/channel/UC3jybceX5l4AvKeLylWBNuw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/uc3jybcex5l4avkelylwbnuw"/></a>
 </p>
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
-
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
