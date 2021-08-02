@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif">
 
 ## Hey, I’m Talha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"> ##
-A passionate software engineer from India
+I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Competitive Programming, creating software💻 , I like learning and experimenting with new technologies, building small projects . Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.
 
 - 👀 I’m interested in Coding!
 - 🌱 I’m currently learning SAP ABAP on HANA
