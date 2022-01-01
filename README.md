@@ -49,8 +49,8 @@ I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏. I'm 
 
 <p align="center">
 <a href="https://github.com/talha-shaikh-official">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha-shaikh-official&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=talha-shaikh-official&layout=compact&langs_count=8&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iTzTalha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=iTzTalha&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
