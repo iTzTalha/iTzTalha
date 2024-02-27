@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif">
 
-## Hey, I’m Talha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"> ##
-I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏. I'm passionate about Competitive Programming, and creating software💻 , I like learning and experimenting with new technologies, and building small projects. Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.
+# Hello, I’m Talha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
+I'm a passionate software developer with a love for coding and creating awesome projects 💻. Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.
 
-- 👀 I’m interested in Coding!
-- 🌱 I’m currently learning Spring Boot
+- 👀 I'm proficient in Java, C#, JavaScript, and more.
+- 🌱 Currently learning Spring Boot, React.js and improving my system design skills.
+-  🚀 I'm always working on fun side projects in my free time.
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me **shaikhtalhaofficial04@gmail.com**
 
